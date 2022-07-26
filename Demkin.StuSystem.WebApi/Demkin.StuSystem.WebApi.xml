@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demkin.StuSystem.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:Demkin.StuSystem.WebApi.Controllers.LoginController">
+            <summary>
+            登录模块
+            </summary>
+        </member>
+        <member name="M:Demkin.StuSystem.WebApi.Controllers.LoginController.Test">
+            <summary>
+            测试
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
